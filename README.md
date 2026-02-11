@@ -1,86 +1,17 @@
-👋 Hi, I'm Ashwini Bhor
+# 💫 About Me:
+👋 Hi, I'm Ashwini Bhor<br><br>🎯 Data Analyst with 1.5+ years of experience, passionate about turning raw data into meaningful insights. I enjoy working on real-world datasets, performing EDA, and creating data-driven solutions.
 
-🎯 Data Analyst with 1.5+ years of experience, passionate about turning raw data into meaningful insights.
-I enjoy working on real-world datasets, performing EDA, and creating data-driven solutions.
-🔍 What I Do
 
-📊 Data Cleaning & Exploratory Data Analysis (EDA)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/life_of.ashwin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwini-b-5a10b2233/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Ashwini Bhor) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwinibhor2301@gmail.com) 
 
-📈 Data Visualization & Dashboards
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ashwinibhor7777&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ashwinibhor7777&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinibhor7777&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🧠 Business Insights & Reporting
+---
+[![](https://visitcount.itsvg.in/api?id=ashwinibhor7777&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🛠️ Working on real-world analytics projects
-
-🛠️ Skills & Tools
-
-Programming & Analysis
-
-Python (Pandas, NumPy, Matplotlib, Seaborn)
-
-SQL
-
-Data Visualization
-
-Power BI
-
-Matplotlib / Seaborn
-
-Concepts
-
-EDA
-
-Data Cleaning
-
-Feature Engineering
-
-Basic Machine Learning
-
-Other
-
-Excel
-
-Git & GitHub
-
-📌 Featured Projects
-🔹 Credit Risk Analysis
-
-Analyzed customer credit data to identify risk patterns
-
-Performed EDA & feature analysis
-
-Helped understand factors affecting loan default
-
-🔹 Loan Approval Prediction
-
-Cleaned & preprocessed loan datasets
-
-Built predictive models for loan approval
-
-Visualized approval trends & customer behavior
-
-🔹 E-commerce Sales Analysis
-
-Analyzed sales & customer data
-
-Identified top products, trends & revenue insights
-
-Created visual reports for business decisions
-
-👉 Check my repositories for datasets, code & insights.
-
-📈 Currently Learning
-
-Advanced SQL
-
-AI,Machine Learning for Analytics
-
-Better Dashboard Design (Power BI)
-
-🤝 Connect With Me
-
-💼 Open to Data Analyst opportunities
-
-📫 Feel free to explore my projects and connect
-
-⭐ If you find my work useful, don’t forget to star the repositories!
